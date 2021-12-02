@@ -1,0 +1,36 @@
+body{ 
+    justify-content: center;
+    text-align: center;
+    background-image : url(Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black ;
+}
+
+#inp1{
+    justify-content: center;
+    text-align: center;
+    margin-top:10px;
+    font-size: 20px;
+
+}
+
+#btn1{
+    justify-content: center;
+    text-align: center;
+    font-size: 20PX;
+}
+
+P {
+    color: white;
+    font-size: 30px;
+    
+}
+
+#para {
+    margin-top:250px;
+
+}
+
+
+
